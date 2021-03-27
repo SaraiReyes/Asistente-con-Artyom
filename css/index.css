@@ -1,0 +1,13 @@
+* {
+    background-image: url(img/cuatro.jpg);
+    background-size: cover;
+}
+
+#b {
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 12px;
+    background-color: #27b6de9e;
+    border: 2px solid #ccc;
+    color: whitesmoke;
+}
